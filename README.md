@@ -3,7 +3,9 @@
 <br/>
 <img src="https://github.com/pappavis/Infrarooi-LED-Alarm-met-555-timer-IC/blob/master/plaatjes/led-alarm_3d.jpg?raw=true" width="40%" height="40%"><br/>
 <br/>
-
+<br/>
+Ontwerp gemaak met KiCAD 4.0.4<br/>
+<br/>
 Komponente:<br/>
 1x NE555P timer IC<br/>
 1x LM358P op amp IC<br/>
