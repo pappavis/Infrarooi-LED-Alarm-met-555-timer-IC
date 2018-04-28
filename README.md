@@ -10,6 +10,7 @@ Komponente:<br/>
 1x 10k potmeter<br/>
 1x 200ohm weerstand<br/>
 1x 10uF capacitor<br/>
+1x Piezzo buzzer, nie gepolariseerd.
 <br/>
 <br/>
 Wordt vervolgd..<br/>
